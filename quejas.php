@@ -28,8 +28,8 @@
                             <th>Folio</th>
                             <th>Asunto</th>
                             <th>Motivo</th>
-                            <th>Cliente</th>
-                            <th>Empresa</th>
+                            <th>Clientes</th>
+                            <th>Empresas</th>
                             <th>Vía Queja</th>
                             <th>Acciones</th>
                         </tr>

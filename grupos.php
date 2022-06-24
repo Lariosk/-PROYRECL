@@ -86,7 +86,7 @@
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title">Editar Grupo</h5>
+                            <h5 class="modal-title">Editar Grupos</h5>
                         </div>
                         <div class="modal-body">
                             <div class="container">
@@ -112,7 +112,7 @@
                         <h5 class="modal-title">¡Atención!</h5>
                     </div>
                     <div class="modal-body">
-                        <p>¿Estas Seguro de Eliminar?</p>
+                        <p>¿Estas Seguro de Eliminar el grupo</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
